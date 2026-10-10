@@ -80,7 +80,7 @@ javac -version
 Clone the repository using Git:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Cafe-Management-System.git
+git clone https://github.com/deepikax11/Cafe-Management-System.git
 ```
 
 Alternatively, download the repository as a ZIP file from GitHub and extract it.
